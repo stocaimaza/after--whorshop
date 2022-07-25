@@ -1,0 +1,30 @@
+.fondo {
+    background-image: url('../img/vida--saludable.jpg');
+    color:black;
+}
+
+.fondo p {
+    font-weight: bold;
+}
+
+.colorBoton {
+    background-color: aliceblue;
+}
+
+.fondoNavbar {
+    background-color: #edede9;
+}
+
+.tamLogo {
+    width: 100px;
+}
+
+.resultado {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+#admin {
+    width: 200px;
+}
